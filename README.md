@@ -1,1 +1,2 @@
-#Trip - Planning
+# Trip - Planning
+Let's explore!!
